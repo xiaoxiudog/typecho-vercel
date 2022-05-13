@@ -755,6 +755,7 @@ function install_step_1_perform()
         }
     }
 
+    /*
     $uploadDir = '/usr/uploads';
     $realUploadDir = \Typecho\Common::url($uploadDir, __TYPECHO_ROOT_DIR__);
     $writeable = true;
@@ -779,6 +780,7 @@ function install_step_1_perform()
     } else {
         install_raise_error(implode("\n", $errors));
     }
+    */
 }
 
 /**
