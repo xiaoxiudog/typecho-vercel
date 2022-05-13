@@ -1,0 +1,22 @@
+{
+   "actionTitle": {
+      "description": "按钮标题",
+      "message": "发送时光机"
+   },
+   "extDescription": {
+      "description": "扩展描述",
+      "message": "一键发送灵感时刻，珍藏你的记忆"
+   },
+   "extName": {
+      "description": "扩展名称",
+      "message": "handsome时光机"
+   },
+   "clipperImageMenu": {
+      "description": "菜单(选中)",
+      "message": "发送选中图片"
+   },
+   "selectionMenu": {
+      "description": "菜单(选中)",
+      "message": "发送选中内容"
+   }
+}
