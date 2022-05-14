@@ -4,6 +4,6 @@ Vercel部署Typecho动态博客前端源码
 ## 默认环境
 - PHP 8.0.x
 
-## 使用方法
+## 一键部署到Vercel
 
-上传到[Vercel](https://vercel.com/)配置好数据库即可
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/pbloods/typecho/)
