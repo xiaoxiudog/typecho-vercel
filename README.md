@@ -1,4 +1,4 @@
-# Vercel 一键部署 Typecho 博客
+## Vercel 一键部署 Typecho 博客
 
 [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/pbloods/typecho/)
 
@@ -7,7 +7,7 @@
 - `vercel-php@0.4.0` - PHP 8.0.x  #默认
 - `vercel-php@0.3.2` - PHP 7.4.x
 
-# 教程
+## 教程
 
 1. 克隆项目
 
