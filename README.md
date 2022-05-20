@@ -7,6 +7,8 @@
 - `vercel-php@0.4.0` - PHP 8.0.x  #默认
 - `vercel-php@0.3.2` - PHP 7.4.x
 
+# 教程
+
 1. 克隆项目
 
 2. 修改数据库配置文件`config.inc.php`
