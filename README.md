@@ -1,4 +1,4 @@
-# Typecho博客_Vercel PHP环境
+# Vercel 一键部署 Typecho 博客
 
 修改vercel.json自定义php版本
 - `vercel-php@0.5.1` - PHP 8.1.x
