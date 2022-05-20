@@ -9,4 +9,4 @@
 
 配置数据库
 
-通过 vercel 测试域名访问 typecho 后台，填写数据库信息，注意 vercel 无法直接修改文件，[typecho 后台]()会根据你填写的数据生成配置文件内容，手动在本地项目根目录下新建文件`config.inc.php`，填入生成的配置文件内容，重新上传即可配置成功。
+通过 vercel 测试域名访问 typecho 后台，填写数据库信息，注意 vercel 无法直接修改文件，[typecho 后台](https://typecho-phi-ten.vercel.app/)会根据你填写的数据生成配置文件内容，手动在本地项目根目录下新建文件`config.inc.php`，填入生成的配置文件内容，重新上传即可配置成功。
