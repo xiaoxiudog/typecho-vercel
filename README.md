@@ -11,8 +11,6 @@
 
 1. 克隆项目
 
-2. 修改数据库配置文件`config.inc.php`
-
-在[typecho 配置界面](https://typecho-phi-ten.vercel.app/)填写获取数据库信息，获取配置文件
+2. 修改数据库配置文件`config.inc.php` 在[typecho 配置界面](https://typecho-phi-ten.vercel.app/)填写获取数据库信息，获取配置文件
  
 3. 发布
